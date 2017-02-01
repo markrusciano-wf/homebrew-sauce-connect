@@ -1,1 +1,2 @@
 # homebrew-sauce-connect
+test
